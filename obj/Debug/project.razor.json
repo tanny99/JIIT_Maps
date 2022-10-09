@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "FilePath": "/Users/ujjwalsachdeva/Desktop/JIIT_Maps/Assembly-CSharp.csproj",
+=======
+  "FilePath": "/Users/tanishkgupta/Documents/Unity Projects/JIIT_Maps/Assembly-CSharp.csproj",
+>>>>>>> refs/remotes/origin/master
   "Configuration": {
     "ConfigurationName": "UnsupportedRazor",
     "LanguageVersion": "1.0",

@@ -1,6 +1,17 @@
 {
+<<<<<<< HEAD
 	"process_id" : 6650,
+=======
+<<<<<<< HEAD
+	"process_id" : 10278,
+	"version" : "2021.3.8f1",
+	"app_path" : "/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app",
+	"app_contents_path" : "/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents"
+=======
+	"process_id" : 19308,
+>>>>>>> refs/remotes/origin/master
 	"version" : "2021.3.1f1",
 	"app_path" : "/Applications/Unity/Hub/Editor/2021.3.1f1/Unity.app",
 	"app_contents_path" : "/Applications/Unity/Hub/Editor/2021.3.1f1/Unity.app/Contents"
+>>>>>>> b60781db6808544ab2196398bdfece6b938b9faa
 }
