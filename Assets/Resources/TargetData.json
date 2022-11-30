@@ -1,0 +1,1082 @@
+{
+	"TargetList": [
+		{
+			"Name": "Gate 1",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0,
+				"y": 0.00,
+				"z": -5.04
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "LRC",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -34.8,
+				"y": 0.00,
+				"z": 56.9
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 3",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -36.6,
+				"y": 0.00,
+				"z": 15.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gate 2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -127.97,
+				"y": 0.00,
+				"z": 3.49
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Gate 3",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -275.38,
+				"y": 0.00,
+				"z": 226.65
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "A to Z",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -224.5,
+				"y": 0.00,
+				"z": 169.15
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Sarojini",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -96.4,
+				"y": 0.00,
+				"z": 164.4
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "OAT",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -59.6,
+				"y": 0.00,
+				"z": 46.72
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Basketball Court",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -41.6,
+				"y": 0.00,
+				"z": 132.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Football Court",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -54.4,
+				"y": 0.00,
+				"z": 134.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Volleyball Court",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -35.5,
+				"y": 0.00,
+				"z": 119.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Portico",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -11.1,
+				"y": 0.00,
+				"z": 118.4
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "JBS",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -39.6,
+				"y": 0.00,
+				"z": 161.1
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Mess",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -169.2,
+				"y": 0.00,
+				"z": 166.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Girl Swimming Pool",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -154.4,
+				"y": 0.00,
+				"z": 167.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Boy Swimming Pool",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -36.6,
+				"y": 0.00,
+				"z": 15.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "EDD Lab",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -229,
+				"y": 0.00,
+				"z": 169.22
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Maulana Azad",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -264.54,
+				"y": 0.00,
+				"z": 172.13
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "GB Pant",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -269.28,
+				"y": 0.00,
+				"z": 167.46
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 1 Main Entrance",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -102.6,
+				"y": 0.00,
+				"z": 145.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 1 Gate 2",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -80.1,
+				"y": 0.00,
+				"z": 103.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 1 Gate 3",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -82.48,
+				"y": 0.00,
+				"z": 46.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 1 Gate 4",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -127.8,
+				"y": 0.00,
+				"z": 46.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 1 Gate 5",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -127.8,
+				"y": 0.00,
+				"z": 101.74
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Cafe",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -34.8,
+				"y": 0.00,
+				"z": 56.9
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 1 Ground Floor",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -50.5,
+				"y": 0.00,
+				"z": 157.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G9",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 126.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G8",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 118.77
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G7",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 109.14
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G6",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 97.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G5",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 89.9
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G4",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 82.5
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G3",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 75.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G2",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 65.8
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "G1",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 56
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Photocopy Shop",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -50.5,
+				"y": 0.00,
+				"z": 132
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "LT-1",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -56.8,
+				"y": 0.00,
+				"z": 126.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "LT-2",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -56.8,
+				"y": 0.00,
+				"z": 105.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "LT-3",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -56.8,
+				"y": 0.00,
+				"z": 79.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Stairs 1",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -49,
+				"y": 0.00,
+				"z": 122
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Stairs 2",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -49,
+				"y": 0.00,
+				"z": 93
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Stairs 3",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -49,
+				"y": 0.00,
+				"z": 52.4
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Stairs 4",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 105.9
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 1 First Floor",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -50.5,
+				"y": 0.00,
+				"z": 132
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF9",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 126.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF8",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 118.77
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF7",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 109.14
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF6",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 97.7
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF5",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 89.9
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF4",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 82.5
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF3",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 75.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF2",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 65.8
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FF1",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -30.45,
+				"y": 0.00,
+				"z": 56
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "BioScience Lab",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -61.8,
+				"y": 0.00,
+				"z": 131.788
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Electric & Instrumentation Lab",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -41.59,
+				"y": 0.00,
+				"z": 131.788
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bio Technology Lab 1",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -62.3,
+				"y": 0.00,
+				"z": 106.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bio Chemistry Lab",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -62.3,
+				"y": 0.00,
+				"z": 80
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Mathematics Faculty Block",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -62.3,
+				"y": 0.00,
+				"z": 52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Bio Technology Lab 2",
+			"FloorNumber": 2,
+			"Position": {
+				"x": -62.3,
+				"y": 0.00,
+				"z": 52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ABB 1 Second Floor",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -50.5,
+				"y": 0.00,
+				"z": 132
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Physics Lab 1",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -62.3,
+				"y": 0.00,
+				"z": 132
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS12",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -43,
+				"y": 0.00,
+				"z": 132
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS11",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -36,
+				"y": 0.00,
+				"z": 132
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS5",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -37.22,
+				"y": 0.00,
+				"z": 80
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS6",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -44,
+				"y": 0.00,
+				"z": 80
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS7",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -30.5,
+				"y": 0.00,
+				"z": 97.5
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS8",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -34.62,
+				"y": 0.00,
+				"z": 106.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS9",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -43.9,
+				"y": 0.00,
+				"z": 106.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS10",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -62.7,
+				"y": 0.00,
+				"z": 106.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS2",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -38,
+				"y": 0.00,
+				"z": 52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TS1",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -45,
+				"y": 0.00,
+				"z": 52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CS4",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -30.5,
+				"y": 0.00,
+				"z": 124
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CS3",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -30.5,
+				"y": 0.00,
+				"z": 87
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CS2",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -30.5,
+				"y": 0.00,
+				"z": 72
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CS1",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -30.5,
+				"y": 0.00,
+				"z": 61
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "MM Lab",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -63,
+				"y": 0.00,
+				"z": 80
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "TNP Hall",
+			"FloorNumber": 3,
+			"Position": {
+				"x": -61.8,
+				"y": 0.00,
+				"z": 52
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
